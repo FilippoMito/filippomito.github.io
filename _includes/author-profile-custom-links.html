@@ -5,3 +5,19 @@
     </a>
   </li>
 -->
+
+      {% if author.gitter %}
+        <li>
+          <a href="https://gitter.im/{{ author.gitter }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-github-square" aria-hidden="true"></i> Gitter
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.telegram %}
+        <li>
+          <a href="https://telegram.me/{{ author.telegram }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-telegram" aria-hidden="true"></i> Telegram
+          </a>
+        </li>
+      {% endif %}
