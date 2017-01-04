@@ -9,7 +9,7 @@ header:
   caption: "Filippo loves BTTF's Delorean DMC-12"
 ---
 
-Filippo is an engineer with a Master's degree in computer science from Italy. :computer:
+Filippo is an engineer with a Master's degree in Computer Science Engineering from Italy. :computer:
 
 He likes tecnology in every way, but he also loves nature and to be a scout chief. :leaves: He likes digital photography to combine these two worlds. :camera:
 
