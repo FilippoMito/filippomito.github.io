@@ -46,6 +46,6 @@ I'll also try to keep updated my <a href="/cv">CV page</a> as I improve my skill
 
 # Getting In Touch
 
-I’d love to hear from you! If you have anything to say, don’t think twice leaving a comment below or better <a href="https://github.com/FilippoMito/filippomito.github.io/issues/new">file an issue</a>.
+I’d love to hear from you! If you have anything to say, don’t think twice leaving a comment below or better <a href="https://github.com/filippobuletto/filippobuletto.github.io/issues/new">file an issue</a>.
 I would appreciate constructive criticism regarding my work because that will help me do better.
 Or if you just want to say hi or say anything rather than leaving a comment, you may contact me through my many social links in the sidebar :wink: I'm very active on Twitter.

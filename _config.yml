@@ -11,9 +11,9 @@ title                    : "Filippo Buletto"
 title_separator          : "-"
 name                     : "Filippo Buletto"
 description              : "My amazing website."
-url                      : "https://filippomito.github.io"
+url                      : "https://filippobuletto.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "FilippoMito/filippomito.github.io"
+repository               : "filippobuletto/filippobuletto.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         : filippo.buletto
   foursquare       :
-  github           : filippomito
+  github           : filippobuletto
   gitlab           :
   google_plus      :
   keybase          :

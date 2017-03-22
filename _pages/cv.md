@@ -55,7 +55,7 @@ modified: 2017-01-01T12:00:00+01:00
 
 | Università degli studi di Padova<br />Laurea Magistrale in Ingegneria Informatica | <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Padova<br>2009-2011 |
 
-- [Thesis](https://github.com/FilippoMito/filippomito.github.io/blob/master/assets/docs/thesis-filippo-buletto-masters-degree.pdf): _Ingegnerizzazione del processo di creazione di una Startup: dall'idea al modello di business_ / _Creating a Startup: from the idea to the Business Model_
+- [Thesis](https://github.com/filippobuletto/filippobuletto.github.io/blob/master/assets/docs/thesis-filippo-buletto-masters-degree.pdf): _Ingegnerizzazione del processo di creazione di una Startup: dall'idea al modello di business_ / _Creating a Startup: from the idea to the Business Model_
 - Final score: 103/110
 - Classes:
     + Calcolo Parallelo, Elaborazione numerica dei Segnali, Elaborazione di dati Tridimensionali, Grandi moli di Dati, Informatica Teorica, Ricerca Operativa, Sistemi in Realtime.
