@@ -10,9 +10,8 @@ categories:
   - Programming
 tags:
   - java
+toc: true
 ---
-
-{% include toc %}
 
 # STUPID Java
 
