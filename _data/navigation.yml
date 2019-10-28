@@ -14,3 +14,53 @@ main:
   #   url: /sitemap/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
+
+kubernetes-toolbox:
+  - title: "Terminal"
+    children:
+      - title: "kubebox"
+        url: /kubernetes-toolbox/#kubebox
+      - title: "kubectx / kubens"
+        url: /kubernetes-toolbox/#kubectx--kubens
+      - title: "kubefwd"
+        url: /kubernetes-toolbox/#kubefwd
+      - title: "kubeval"
+        url: /kubernetes-toolbox/#kubeval
+      - title: "rakkess"
+        url: /kubernetes-toolbox/#rakkess
+      - title: "stern"
+        url: /kubernetes-toolbox/#stern
+      - title: "popeye"
+        url: /kubernetes-toolbox/#popeye
+      - title: "kube-ps1"
+        url: /kubernetes-toolbox/#kube-ps1
+      - title: "krew"
+        url: /kubernetes-toolbox/#krew
+      - title: "kube-shell"
+        url: /kubernetes-toolbox/#kube-shell
+      - title: "k9s"
+        url: /kubernetes-toolbox/#k9s
+      - title: "polaris"
+        url: /kubernetes-toolbox/#polaris
+      - title: "kube-hunter"
+        url: /kubernetes-toolbox/#kube-hunter
+      - title: "kubespy"
+        url: /kubernetes-toolbox/#kubespy
+  - title: "Web UI"
+    children:
+      - title: "kubebox"
+        url: /kubernetes-toolbox/#kubebox
+      - title: "octant"
+        url: /kubernetes-toolbox/#octant
+      - title: "polaris"
+        url: /kubernetes-toolbox/#polaris
+  - title: "Security"
+    children:
+      - title: "rakkess"
+        url: /kubernetes-toolbox/#rakkess
+      - title: "popeye"
+        url: /kubernetes-toolbox/#popeye
+      - title: "polaris"
+        url: /kubernetes-toolbox/#polaris
+      - title: "kube-hunter"
+        url: /kubernetes-toolbox/#kube-hunter
