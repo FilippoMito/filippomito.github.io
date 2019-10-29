@@ -65,7 +65,7 @@ Features
 
 ## kubeval
 
-**GitHub Repo:** <https://github.com/txn2/kubefwd>
+**GitHub Repo:** <https://github.com/instrumenta/kubeval>
 {: .notice--info}
 {: style="text-align: center;"}
 
