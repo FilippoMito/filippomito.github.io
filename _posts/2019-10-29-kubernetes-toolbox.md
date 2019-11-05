@@ -205,3 +205,13 @@ What happens when you boot up a `Pod`? What happens to a `Service` before it is 
 IP address? How often is a `Deployment`'s status changing?
 
 **`kubespy` is a small tool that makes it easy to observe how Kubernetes resources change in realtime,** derived from the work we did to make Kubernetes deployments predictable in [Pulumi's CLI](https://www.pulumi.com/kubernetes/). Run `kubespy` at any point in time, and it will watch and report information about a Kubernetes resource continuously until you kill it.
+
+## kubectl-neat
+
+**GitHub Repo:** <https://github.com/itaysk/kubectl-neat>
+{: .notice--info}
+{: style="text-align: center;"}
+
+> Clean up Kuberntes yaml and json output to make it readable
+
+When you create a Kubernetes resource, let's say a Pod, Kubernetes adds a whole bunch of internal system information to the yaml or json that you originally authored. This includes default values, tracking information, internal metadata, etc. `kubectl-neat` is a kubectl plugin that cleans up the yaml or json output of Kubernetes resources, and makes it readable again.
