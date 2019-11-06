@@ -1,5 +1,5 @@
 ---
-title: "My toolbox for Kubernetes development (so far)"
+title: "My toolbox for Kubernetes development (so far) UPDATED"
 excerpt: "Here’s a not-so-comprehensive list of all the tools that I use to work with K8s to further enhance my development work."
 permalink: /kubernetes-toolbox/
 header:
