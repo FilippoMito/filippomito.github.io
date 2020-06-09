@@ -29,14 +29,14 @@ As I have my own private wired/wifi network, there is a need to have something m
 
 ### What I have
 
-* Raspberry Pi 3 Model B (Red)
-* Tp-Link RE450 Access Point / Range Extender (Blue)
-* Switch Gigabit Ethernet (Blue)
+* Raspberry Pi 3 Model B (Red) <a target="_blank" href="https://www.amazon.it/gp/offer-listing/B01CD5VC92/ref=as_li_tl?ie=UTF8&amp;camp=3414&amp;creative=21718&amp;creativeASIN=B01CD5VC92&amp;linkCode=as2&amp;tag=filippobulett-21&amp;linkId=f9764b7d0f0ae81c717e74bdaffcfa4b">Buy on Amazon (paid link)</a>
+* Tp-Link RE450 Access Point / Range Extender (Blue) <a target="_blank" href="https://www.amazon.it/gp/offer-listing/B010RXXY48/ref=as_li_tl?ie=UTF8&camp=3414&creative=21718&creativeASIN=B010RXXY48&linkCode=am2&tag=filippobulett-21&linkId=186e4665a5d296f92bc6fef7aa0d7acf">Buy on Amazon (paid link)</a>
+* Switch Gigabit Ethernet (Blue) <a target="_blank" href="https://www.amazon.it/gp/offer-listing/B00A128S24/ref=as_li_tl?ie=UTF8&camp=3414&creative=21718&creativeASIN=B00A128S24&linkCode=am2&tag=filippobulett-21&linkId=2de23949f690a5d3175cb9fc9d15d4da">Buy on Amazon (paid link)</a>
 
 ### What I need
 
-* LTE Mobile Broadband Dongle (Violet)
-* LTE External Antenna
+* LTE Mobile Broadband Dongle (Violet) <a target="_blank" href="https://www.amazon.it/gp/offer-listing/B00MEJJSGW/ref=as_li_tl?ie=UTF8&camp=3414&creative=21718&creativeASIN=B00MEJJSGW&linkCode=am2&tag=filippobulett-21&linkId=4e3c7dc9483ba654a1cf39a44b0cb44f">Buy on Amazon (paid link)</a>
+* LTE External Antenna <a target="_blank" href="https://www.amazon.it/gp/offer-listing/B07NVKDMSZ/ref=as_li_tl?ie=UTF8&camp=3414&creative=21718&creativeASIN=B07NVKDMSZ&linkCode=am2&tag=filippobulett-21&linkId=e3467b84c59021064062bdb242bf5851">Buy on Amazon (paid link)</a>
 
 The 4G LTE dongle I've used is manufactured by ZTE (MF823). The dongle is directly recognized as an Ethernet port `usb0`. A web interface is provided in order to get information about the connection, to enter the pin code, ...
 
