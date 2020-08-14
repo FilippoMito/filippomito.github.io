@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Curriculum Vitae"
     url: /cv/
+  - title: "Courses and Certifications"
+    url: /courses-certifications/
   - title: "Posts"
     url: /year-archive/
   # - title: "Sample Collections"

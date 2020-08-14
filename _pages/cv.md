@@ -207,6 +207,10 @@ Licensed under the MIT License. Prometheus health checks collector is a library 
 - Olimpiadi dell'Informatica di Istituto - 2nd Place (2005/2006)
 - Olimpiadi dell'Informatica di Istituto - 1st Place (2004/2005)
 
+# Courses and Certifications
+
+See Courses and Certifications [page](/courses-certifications/).
+
 ---
 
 Contact me for a PDF version.
